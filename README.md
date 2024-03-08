@@ -26,7 +26,6 @@ With a passion for pixels and a knack for turning tea into code. Whether I'm div
    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="flask" width="35" height="35"  />
 
-   <img src="" alt="" width="35" height="35" />
 </p>
 
 ### Database/Server
