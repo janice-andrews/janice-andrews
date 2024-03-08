@@ -1,4 +1,4 @@
-## Heya, I am Janice! 
+## Heya, I am Jay! 
 
 With a passion for pixels and a knack for turning tea into code. Whether I'm diving into the front-end dance of pixels or orchestrating a back-end symphony, I love to learn and expect to have fun challenges (the super annoying ones where you say ohhh I knew that, I think) 
 
