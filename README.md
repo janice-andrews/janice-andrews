@@ -19,8 +19,7 @@ With a passion for pixels and a knack for turning tea into code. Whether I'm div
 
 ### Frameworks
 <p>  
-  <img src="https://github.com/janice-andrews/janice-andrews/assets/16889474/b384991b-ed7e-48c7-94bc-7831d2f03b6b
-" alt="Astro" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original-wordmark.svg" alt="Astro" width="35" height="35" />
   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="35" height="35" />
    
