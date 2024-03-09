@@ -13,8 +13,6 @@ With a passion for pixels and a knack for turning tea into code. Whether I'm div
 <img src="https://github.com/janice-andrews/janice-andrews/assets/16889474/b2793f81-e9b8-45b9-ad74-2b2d64793c6b" alt="Python" width="35" height="35"  /> 
 
 <img src="https://github.com/janice-andrews/janice-andrews/assets/16889474/5eb64895-ccdd-4547-9f6c-a1f2f375b229" alt="Python" width="35" height="35"  /> 
-
-<img src="https://github.com/janice-andrews/janice-andrews/assets/16889474/61a0c67c-c5ae-41cd-b16d-885071f72537" alt="TailwindCSS" width="35" height="35"  /> 
 </p>
 
 ### Frameworks
@@ -25,6 +23,7 @@ With a passion for pixels and a knack for turning tea into code. Whether I'm div
    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="flask" width="35" height="35"  />
 
+<img src="https://github.com/janice-andrews/janice-andrews/assets/16889474/61a0c67c-c5ae-41cd-b16d-885071f72537" alt="TailwindCSS" width="35" height="35"  /> 
 </p>
 
 ### Database/Server
