@@ -1,6 +1,6 @@
 ## Heya, I am Jay! 
 
-Whether I'm diving into the front-end or swimming to the back-end waves, I love to learn and challenge my existing knowledge of various technologies.
+**designer. developer. engineer.**
 
 ### Things I enjoy: 🛹 🍛 🎹 👩🏾‍💻 ⛸️ 🎨
 
