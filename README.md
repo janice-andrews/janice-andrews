@@ -1,7 +1,5 @@
 ## Heya, I am Jay! 
 
-**designer. developer. engineer.**
-
 ### Things I enjoy: 🛹 🍛 🎹 👩🏾‍💻 ⛸️ 🎨
 
 ### Languages
